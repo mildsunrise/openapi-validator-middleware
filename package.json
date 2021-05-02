@@ -62,7 +62,7 @@
   "author": "Idan Tovi",
   "license": "Apache-2.0",
   "dependencies": {
-    "api-schema-builder": "^2.0.4",
+    "api-schema-builder": "mildsunrise/api-schema-builder#fix-content-type-validation",
     "auto-bind": "^4.0.0",
     "nano-memoize": "^1.2.1"
   },
